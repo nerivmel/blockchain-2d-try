@@ -15,7 +15,8 @@ Este es un proyecto de blockchain desarrollado en Node.js y JavaScript. La block
 
 ## Requisitos previos
 
-- Node.js: Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo desde [nodejs.org](https://nodejs.org/).
+- ![Node.js](https://www.example.com/ruta/a/tu/imagen/nodejs.png): Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo desde [nodejs.org](https://nodejs.org/).
+
 
 ## Instalación
 
