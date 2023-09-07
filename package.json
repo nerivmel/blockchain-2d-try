@@ -1,0 +1,22 @@
+{
+  "name": "blockchaindummy",
+  "version": "1.0.0",
+  "description": "Here, I try to create a basic blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerivmel"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Manuel Calle Garcés",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2"
+  }
+}
