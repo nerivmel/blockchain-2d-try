@@ -15,7 +15,7 @@ Este es un proyecto de blockchain desarrollado en Node.js y JavaScript. La block
 
 ## Requisitos previos
 
-- ![Node.js](https://es.wikipedia.org/wiki/Archivo:Node.js_logo.svg): Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo desde [nodejs.org](https://nodejs.org/).
+- ![Node.js]((https://github.com/nerivmel/blockchain-2d-try/blob/master/nodejs.png)): Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo desde [nodejs.org](https://nodejs.org/).
 
 
 ## Instalación
